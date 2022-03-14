@@ -1,0 +1,25 @@
+/* Common CSS for all Apps in CSSA portal */
+
+/* CSSA Left Margin is 24px */
+.CSSAMarginBegin {
+    margin-left: 1.5rem !important; 
+}
+
+/* CSSA Controls Left Margin inside Icon Tab Bar (except for panel)*/
+.CSSAMarginITBBegin {
+    margin-left: 2.0625rem !important; 
+}
+
+/* CSSA Left Margin for Panels inside Icon Tab Bar content*/
+.CSSAMarginITBPanelBegin {
+    margin-left: 1.125rem !important; 
+}
+
+/*GLobal bottom toolbar buttons*/
+.sapUiSizeCompact .sapMPageFooter .sapMIBar {
+    height: 3.5rem;
+}
+
+.sapUiSizeCompact .sapMBtn.cssaButton {
+    height: 3.5rem;
+}
